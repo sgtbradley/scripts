@@ -1,0 +1,2 @@
+- `curl https://raw.githubusercontent.com/jazzakek/scripts/main/debian/0-init.sh | bash`
+- `curl https://raw.githubusercontent.com/jazzakek/scripts/main/debian/1-fish.sh | fish`
