@@ -9,6 +9,6 @@ echo ""
 echo "Installing Fish"
 echo ""
 sudo apt install -y fish
-chsh -s /bin/fish
+sudo usermod --shell /bin/fish $USER 
 echo ""
 echo "Done! please restart your session"
